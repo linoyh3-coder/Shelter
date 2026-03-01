@@ -4,5 +4,17 @@ body{
 }
 
 li{
-    color: rgb(229, 169, 119);
+    color: rgb(189, 117, 58);
+}
+
+.home-image{
+    width: 250px;
+    border: 1px solid black;
+    height: 200px;
+    
+}
+
+head{
+    font-style: italic;
+    color: brown
 }
